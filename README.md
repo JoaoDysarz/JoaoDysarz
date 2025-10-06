@@ -1,4 +1,4 @@
-<p align="left">Hi 👋! My name is joão ... and I'm a IT project assistant, from Brazil</p>
+<p align="left">Hi 👋! My name is joão ... and I'm a IT project analist, from Brazil</p>
 <details>
   <summary>👨‍💻 More about me</summary>
 
