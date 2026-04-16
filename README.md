@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋! I'm João Vitor Dysarz</h1>
-<h3 align="left">Junior Project Analyst & Software Engineering Student from Brazil 🇧🇷</h3>
+<h3 align="left">Project Analyst & Software Engineering Student from Brazil 🇧🇷</h3>
 
 <details>
   <summary><b>👨‍💻 More about me</b></summary>
